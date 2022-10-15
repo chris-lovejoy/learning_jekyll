@@ -1,0 +1,12 @@
+
+baseurl: /
+
+# Website info
+title: Chris Lovejoy
+cover: assets/images/blog-cover.jpeg
+logo: assets/images/blog-icon.png
+
+
+collections:
+  topics:
+    output: true
